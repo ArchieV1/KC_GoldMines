@@ -1,0 +1,9 @@
+Hex ranges
+To get it all do "Special Copy > Text" then put it in TextStripper
+Then put it in TextSplitter
+
+Default
+
+With "GoldResource"
+0xEE941
+0x112A64
